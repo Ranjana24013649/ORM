@@ -49,7 +49,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2025-09-20 142100.png>)
+<img width="1899" height="829" alt="Screenshot 2025-09-20 142100" src="https://github.com/user-attachments/assets/6dad6a7f-d452-4d34-8609-265d6d5b3e6b" />
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
